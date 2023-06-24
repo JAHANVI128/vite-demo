@@ -9,8 +9,8 @@ export const UserComponent = () => {
     <div>
         <button onClick={
             () => dispatch(setUser({
-                name:"devanshi",
-                age:18
+                name:"jahanvi",
+                age:20
             }))
         }>
             Set User
